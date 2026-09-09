@@ -1,1 +1,22 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+<title id="title">sergeynak — Backend Developer</title>
+<desc id="desc">A dark blue developer banner with three years of freelance experience and abstract code brackets.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1529"/><stop offset="1" stop-color="#132d45"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1280" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="1140" cy="80" r="225" fill="none" stroke="#60a5fa" stroke-opacity=".09" stroke-width="1"/>
+<circle cx="1140" cy="80" r="175" fill="none" stroke="#60a5fa" stroke-opacity=".11" stroke-width="1"/>
+<rect x="58" y="58" width="34" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="106" y="66" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#8bb3d9">BACKEND DEVELOPER</text>
+<text x="56" y="159" font-family="Consolas,Monaco,monospace" font-size="78" font-weight="700" letter-spacing="-4" fill="#f1f5f9">sergeynak<tspan fill="#5eead4">.</tspan></text>
+<text x="60" y="203" font-family="Arial,sans-serif" font-size="21" fill="#94a8bf">3 years of freelance experience</text>
+<rect x="60" y="240" width="420" height="2" fill="url(#accent)" opacity=".7"/>
+<g fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+<path d="M 975 105 L 923 150 L 975 195"/><path d="M 1088 105 L 1140 150 L 1088 195"/><path d="M 1055 93 L 1008 207"/>
+</g>
+<circle cx="1185" cy="238" r="4" fill="#5eead4" opacity=".75"/>
+</svg>
