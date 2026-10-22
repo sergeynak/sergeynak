@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sergeynak/sergeynak/c109e5969a77cae9b6a39a6375d057868a26530c/assets/header.svg" alt="sergeynak — Backend Developer, 3 years of freelance experience" width="100%" />
-</p>
-
 <h1 align="center">Sergey Nakonechny</h1>
 <p align="center"><strong>Backend Developer &nbsp;·&nbsp; Freelancer</strong></p>
 
